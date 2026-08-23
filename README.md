@@ -21,8 +21,6 @@ and concrete bullet-point rewrites powered by the Claude API.
    ```bash
    cp .env.example .env
    ```
-   Open `.env` and paste in your key from
-   https://console.anthropic.com/settings/keys
 
 3. **Run it**
    ```bash
@@ -58,4 +56,3 @@ resume-analyzer/
 - To build a production bundle: `npm run build`, then serve `dist/` with
   any static host, alongside the Express server (or deploy `server/index.js`
   separately, e.g. on Render/Fly/a VPS, and point the frontend at it).
-=======
