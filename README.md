@@ -56,3 +56,6 @@ resume-analyzer/
 - To build a production bundle: `npm run build`, then serve `dist/` with
   any static host, alongside the Express server (or deploy `server/index.js`
   separately, e.g. on Render/Fly/a VPS, and point the frontend at it).
+
+  <img width="1357" height="878" alt="Screenshot 2026-08-22 212156" src="https://github.com/user-attachments/assets/190ba2e3-3ac9-4867-8d27-dfa7b6677efe" />
+
