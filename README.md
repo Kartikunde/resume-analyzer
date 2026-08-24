@@ -6,8 +6,7 @@ and concrete bullet-point rewrites powered by the Claude API.
 
 ## Stack
 - **Frontend:** React + Vite + Tailwind CSS
-- **Backend:** Node + Express (small proxy server that talks to the Anthropic
-  API so your API key never touches the browser)
+- **Backend:** Node + Express 
 
 ## Setup
 
