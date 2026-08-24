@@ -46,11 +46,9 @@ resume-analyzer/
 ```
 
 ## Notes
-- File upload supports `.txt` and `.docx` (parsed client-side with
-  `mammoth`). PDF upload isn't included — copy-paste the text instead, or
+- File upload supports `.txt` and `.docx`. PDF upload isn't included — copy-paste the text instead, or
   add a PDF-parsing step to `handleFile` in `src/App.jsx` if you'd like.
-- The model used is set in `.env` via `ANTHROPIC_MODEL` (defaults to
-  `claude-sonnet-5`). Change it any time without touching code.
+- The model used is set in `.env` via `ANTHROPIC_MODEL`. Change it any time without touching code.
 - To build a production bundle: `npm run build`, then serve `dist/` with
   any static host, alongside the Express server (or deploy `server/index.js`
   separately, e.g. on Render/Fly/a VPS, and point the frontend at it).
