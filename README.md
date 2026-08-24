@@ -1,8 +1,7 @@
 # AI Resume Analyzer
 
 A local, full-stack resume grading tool. Paste or upload a resume, and get back a scored report: overall score,
-ATS compatibility, category breakdown, strengths/weaknesses, keyword match,
-and concrete bullet-point rewrites powered by the Claude API.
+ATS compatibility, category breakdown, strengths/weaknesses, keyword match.
 
 ## Stack
 - **Frontend:** React + Vite + Tailwind CSS
