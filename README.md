@@ -23,8 +23,7 @@ ATS compatibility, category breakdown, strengths/weaknesses, keyword match.
    ```bash
    npm run dev
    ```
-   This starts the API server on `http://localhost:3001` and the Vite dev
-   server on `http://localhost:5173` at the same time.
+   This starts the API server on `http://localhost:3001` 
 
 ## Project structure
 ```
