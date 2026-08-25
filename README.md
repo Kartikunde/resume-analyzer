@@ -24,8 +24,7 @@ ATS compatibility, category breakdown, strengths/weaknesses, keyword match.
    npm run dev
    ```
    This starts the API server on `http://localhost:3001` and the Vite dev
-   server on `http://localhost:5173` at the same time. Open
-   `http://localhost:5173` in your browser.
+   server on `http://localhost:5173` at the same time.
 
 ## Project structure
 ```
